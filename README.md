@@ -16,7 +16,7 @@ Task 2
   
 Task 3
   Exploratory Data Analysis - Retail.
-  Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
+  Performed ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
   As a business manager, I tried to find out the weak areas where you can work to make more profit.
   I used Python (Jupyter Notebook) for the assignment.
   Dataset: https://bit.ly/3i4rbWl
